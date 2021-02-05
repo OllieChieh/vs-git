@@ -17,6 +17,6 @@ git branch -M main
 <br>
 git remote add origin https://github.com/amonhaha/vs-git.git
 <br>
-'''
+```
 git push -u origin main
-'''
+```
