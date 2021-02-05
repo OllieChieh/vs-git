@@ -10,3 +10,11 @@ git clone https://github.com/amonhaha/vs-git.git
 git config --global user.name "amon"
 <br>
 git config --global user.email "amonhaha77@gmail.com"
+<br>
+git commit -m "first commit"
+<br>
+git branch -M main
+<br>
+git remote add origin https://github.com/amonhaha/vs-git.git
+<br>
+git push -u origin main
