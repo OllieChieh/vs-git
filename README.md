@@ -5,7 +5,10 @@ this repo is test.
 link from visual studio code
 
 ## Change last id
+```
 git clone https://github.com/amonhaha/vs-git.git
+```
+
 ## Enter user name & email
 ```
 git config --global user.name "amon"
